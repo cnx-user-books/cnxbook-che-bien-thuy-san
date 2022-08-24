@@ -1,3 +1,32 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">  <md:content-id>col10751</md:content-id>  <md:title>Chế biến thủy sản</md:title>      <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>  <md:language>vi</md:language>              <md:uuid>f7e484a8-87b8-4cc8-a5c8-10f91aa3bea4</md:uuid>
-<md:slug>che-bien-thuy-san</md:slug>
-</metadata>  <col:content>                        <col:subcollection>        <md:title>Thủy sản sau khi chết</md:title>                                <col:content>                    <col:module document="m30310"/>                          </col:content>      </col:subcollection>                            <col:subcollection>        <md:title>Các biện pháp bảo quản nguyên liệu thủy sản </md:title>                                <col:content>                    <col:module document="m30642"/>                            <col:module document="m30313"/>                          </col:content>      </col:subcollection>                            <col:subcollection>        <md:title>các dạng thủy sản khác  </md:title>                                <col:content>                    <col:module document="m30321"/>                          </col:content>      </col:subcollection>      </col:content></col:collection>
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" authors="&#x110;&#x1EE9;c Tr&#x1EA7;n">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col10751</md:content-id>
+    <md:title>Ch&#x1EBF; bi&#x1EBF;n th&#x1EE7;y s&#x1EA3;n</md:title>
+    <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>
+    <md:language>vi</md:language>
+    <md:uuid>f7e484a8-87b8-4cc8-a5c8-10f91aa3bea4</md:uuid>
+    <md:slug>che-bien-thuy-san</md:slug>
+  </metadata>
+  <col:content>
+    <col:subcollection>
+      <md:title>Th&#x1EE7;y s&#x1EA3;n sau khi ch&#x1EBF;t</md:title>
+      <col:content>
+        <col:module document="m30310"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>C&#xE1;c bi&#x1EC7;n ph&#xE1;p b&#x1EA3;o qu&#x1EA3;n nguy&#xEA;n li&#x1EC7;u th&#x1EE7;y s&#x1EA3;n </md:title>
+      <col:content>
+        <col:module document="m30642"/>
+        <col:module document="m30313"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>c&#xE1;c d&#x1EA1;ng th&#x1EE7;y s&#x1EA3;n kh&#xE1;c  </md:title>
+      <col:content>
+        <col:module document="m30321"/>
+      </col:content>
+    </col:subcollection>
+  </col:content>
+</col:collection>
